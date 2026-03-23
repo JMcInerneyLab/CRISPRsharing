@@ -165,4 +165,3 @@ for i_a in filelist:
                                                 c +=1
                                             if atype == 'RightFLANK':
                                                 break
-
